@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.19a6b262.css",
-    "main.js": "/static/js/main.2d5150f4.js",
+    "main.js": "/static/js/main.99864776.js",
     "static/media/LexendDeca.ttf": "/static/media/LexendDeca.a53403246f73436ba7b7.ttf",
     "index.html": "/index.html",
     "main.19a6b262.css.map": "/static/css/main.19a6b262.css.map",
-    "main.2d5150f4.js.map": "/static/js/main.2d5150f4.js.map"
+    "main.99864776.js.map": "/static/js/main.99864776.js.map"
   },
   "entrypoints": [
     "static/css/main.19a6b262.css",
-    "static/js/main.2d5150f4.js"
+    "static/js/main.99864776.js"
   ]
 }
