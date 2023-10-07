@@ -103,7 +103,7 @@ function App() {
                   <div>Software Engineering Intern</div>
                 </div>
               </div>
-              <div class="text-xs">06.22 - 08.23</div>
+              <div class="text-xs">06.22 - 08.22</div>
             </header>
             <p>
               I worked as a Software Engineering Intern on the Facebook
