@@ -37,7 +37,9 @@ function App() {
             </div>
           </div>
           <div>
-            <a class="text-sm">resume</a>
+            <a class="text-sm" href="./aydan_resume.pdf" download>
+              resume
+            </a>
             <a class="ml-4 text-sm">music</a>
           </div>
         </div>
@@ -79,7 +81,7 @@ function App() {
                   <div>Backend Engineer</div>
                 </div>
               </div>
-              <div class="text-xs">07.10.23</div>
+              <div class="text-xs whitespace-nowrap">07.10.23</div>
             </header>
             <p>
               <a href="https://www.discz.com/" target="_blank">
@@ -103,7 +105,7 @@ function App() {
                   <div>Software Engineering Intern</div>
                 </div>
               </div>
-              <div class="text-xs">06.22 - 08.22</div>
+              <div class="text-xs whitespace-nowrap">06.22 - 08.22</div>
             </header>
             <p>
               I worked as a Software Engineering Intern on the Facebook
@@ -125,7 +127,7 @@ function App() {
                   <div>Software Engineering Intern</div>
                 </div>
               </div>
-              <div class="text-xs">06.21 - 08.21</div>
+              <div class="text-xs whitespace-nowrap">06.21 - 08.21</div>
             </header>
             <p>
               Over my sophomore summer, I was a Software Engineering Intern on
@@ -161,16 +163,16 @@ function App() {
                   <div>Computer Science</div>
                 </div>
               </div>
-              <div class="text-xs">09.19 - 05.23</div>
+              <div class="text-xs whitespace-nowrap">09.19 - 05.23</div>
             </header>
             <p>
               I'm a recent grad of UPenn where I studied CS in the school of
               engineering. I was a frontend developer at{" "}
-              <a href="" target="_blank">
+              <a href="https://pennlabs.org/" target="_blank">
                 Penn Labs
               </a>
               , and guitarist for the{" "}
-              <a href="" target="_blank">
+              <a href="https://www.maskandwig.com/" target="_blank">
                 Mask & Wig
               </a>{" "}
               band.
